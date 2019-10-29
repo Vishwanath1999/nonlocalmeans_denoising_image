@@ -5,4 +5,4 @@ Non-local means is an algorithm in image processing for image denoising. Unlike 
 
 If compared with other well-known denoising techniques, non-local means adds "method noise" (i.e. error in the denoising process) which looks more like white noise, which is desirable because it is typically less disturbing in the denoised product. Recently non-local means has been extended to other image processing applications such as deinterlacing, view interpolation, and depth maps regularization.
 
-If the input image is a colour image break it into 3 coor channels and supply them one by one as input. After denoising the components can be merged to get back the colour image.
+If the input image is a colour image break it into 3 colour channels and supply them one by one as input. After denoising the components can be merged to get back the colour image.
